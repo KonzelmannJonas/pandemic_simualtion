@@ -1,0 +1,4 @@
+Population: 2000
+Contact Rate (Beta): 0.500000
+Recovery Rate (Gamma): 0.045455
+Death Rate (Delta): 0.010000
