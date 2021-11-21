@@ -1,0 +1,6 @@
+Population size: 2000
+infection_range: 0.050000
+infection_chance: 0.500000
+recovery_duration low: 7
+recover_duration high 10
+mortality_chance: 0.025000
