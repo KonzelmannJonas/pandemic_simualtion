@@ -5,6 +5,6 @@ As part of my Matur paper at the Kantonsschule Zürich Nord in Zürich, Switzerl
 
 The corona_simulation used is not my work. It can be found at the following location: https://github.com/paulvangentcom/python_corona_simulation.
 
-As I am still new to the world of programming, the programs i wrote are quite messy and the structure of whole work can be confusing. Do not hesitate to ask me if something is not understandable. 
+As I am still new to the world of programming, the programs i wrote are quite messy and the structure of the whole work can be confusing. Do not hesitate to ask me if something is not understandable. 
 
-The Matura paper can be found in the school library in Switzerland or can be sent as a PDF on demand.
+The Matura paper can be found in the school library of the Kantonsschule Zürich Nord in Switzerland or can be sent as a PDF on demand.
